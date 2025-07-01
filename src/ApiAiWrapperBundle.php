@@ -19,22 +19,21 @@ use Symfony\Component\HttpKernel\Bundle\AbstractBundle;
 
 class ApiAiWrapperBundle extends AbstractBundle
 {
-
     public function configure(DefinitionConfigurator $definition): void
     {
-//        $definition->rootNode()
-//            ->children()
-//            ->arrayNode('api')
-//            ->children()
-//            ->arrayNode('credentials')
-//            ->children()
-//            ->integerNode('username')->end()
-//            ->scalarNode('password')->end()
-//            ->end()
-//            ->end() // credentials
-//            ->end() // api
-//            ->end()
-//        ;
+        //        $definition->rootNode()
+        //            ->children()
+        //            ->arrayNode('api')
+        //            ->children()
+        //            ->arrayNode('credentials')
+        //            ->children()
+        //            ->integerNode('username')->end()
+        //            ->scalarNode('password')->end()
+        //            ->end()
+        //            ->end() // credentials
+        //            ->end() // api
+        //            ->end()
+        //        ;
     }
 
     public function loadExtension(array $config, ContainerConfigurator $containerConfigurator, ContainerBuilder $containerBuilder): void

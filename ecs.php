@@ -10,7 +10,7 @@ use Symplify\EasyCodingStandard\Config\ECSConfig;
 return ECSConfig::configure()
     ->withConfiguredRule(HeaderCommentFixer::class, [
         'header' =>
-"WebEx Api Ai Wrapper Bundle Bundle for Contao Open Source CMS
+"WebEx Api Ai Wrapper Bundle for Contao Open Source CMS
 @author     Web Ex Machina
 
 @see        https://github.com/Web-Ex-Machina/api-ai-wrapper-bundle/
