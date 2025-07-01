@@ -1,6 +1,6 @@
-# WebEx Machina AI API Wrapper Bundle
+# Web ex Machina AI API Wrapper Bundle
 
-A Symfony bundle that provides a wrapper around the WebEx Machina AI API for SEO optimization, text processing, image metadata generation, and translation.
+A Symfony bundle that provides a wrapper around the Web ex Machina AI API for SEO optimization, text processing, image metadata generation, and translation.
 
 ## Features
 
@@ -68,7 +68,7 @@ class YourController
 
 ### Getting an API Token
 
-To use this bundle, you need an account on your API. Please create an account there [WebEx Machina AI API](https://ai.webexmachina.fr/) to obtain your credentials.
+To use this bundle, you need an account on your API. Please create an account there [Web ex Machina AI API](https://ai.webexmachina.fr/) to obtain your credentials.
 
 ## Contribution
 
