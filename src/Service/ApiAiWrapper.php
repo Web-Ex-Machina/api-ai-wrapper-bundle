@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 /*
- * WebEx Api Ai Wrapper Bundle for Contao Open Source CMS
+ * WebEx Api Ai Wrapper Bundle
  * @author     Web Ex Machina
  *
  * @see        https://github.com/Web-Ex-Machina/api-ai-wrapper-bundle/
