@@ -10,7 +10,7 @@ declare(strict_types=1);
  * @license    https://www.apache.org/licenses/LICENSE-2.0 Apache 2.0
  */
 
-namespace WebExMachina\ApiAiWrapperBundle\Service;
+namespace WEM\ApiAiWrapperBundle\Service;
 
 use Symfony\Contracts\HttpClient\Exception\ClientExceptionInterface;
 use Symfony\Contracts\HttpClient\Exception\DecodingExceptionInterface;
